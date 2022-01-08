@@ -16,7 +16,7 @@ Noous réalisons également une Analyse en composantes principales. Le fichier f
 Notre application aurait pour but d'aider les personnes allergiques/ intolérantes au gluten.  
 L'utilisateur entre dans l'application un produit qui contient en général du gluten.  
 L'application retourne un ensemble de produits équivalents sans gluten, que l'utilisateur pourrait trier par énergie, teneur en sel, nutriscore...  
-Sur la page de chaque produit, on verrions en plus de la description de celui-ci une comparaison des valeurs nutritionnelles moyennes avec l'équivalent du produit avec gluten.  
+Sur la page de chaque produit, on verrions en plus de la description de celui-ci une comparaison sous forme de radarplot des valeurs nutritionnelles moyennes avec l'équivalent du produit avec gluten.  
 Des exemples de radarplot sont dans les fichiers PSante_03_cookies.html, PSante_03_pain_de_mie.html et PSante_03_pates.html
 
 
